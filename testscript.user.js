@@ -5,8 +5,8 @@
 // @description  This is a test script for Tampermonkey auto-update.
 // @author       YourName
 // @match        https://example.com/*
-// @updateURL    https://raw.githubusercontent.com/yourusername/yourrepo/main/testscript.user.js
-// @downloadURL  https://raw.githubusercontent.com/yourusername/yourrepo/main/testscript.user.js
+// @updateURL    https://raw.githubusercontent.com/EugBelukhin/replacer-test/main/testscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/EugBelukhin/replacer-test/main/testscript.user.js
 // @grant        none
 // ==/UserScript==
 
