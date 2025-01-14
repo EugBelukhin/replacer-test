@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Test Script for Tampermonkey
 // @namespace    http://example.com/
-// @version      1.0.2
+// @version      1.0.3
 // @description  This is a test script for Tampermonkey auto-update.
 // @author       YourName
 // @match        https://example.com/*
@@ -12,5 +12,5 @@
 
 (function() {
     'use strict';
-    console.log('Test script version 1.0.2 loaded.blrrrrr');
+    console.log('Test script version 1.0.3 loaded.Ffffff');
 })();
