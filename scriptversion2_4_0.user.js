@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Yang ID Replacer
 // @namespace    http://tampermonkey.net/
-// @version      2.3.0
+// @version      2.4.0
 // @description  Заменяет ID на логины, используя данные с файлового хранилища Вики, с хранением в LocalCache
 // @author       Beluhinevgeny
 // @match        https://yang.yandex-team.ru/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @connect      wiki.yandex-team.ru
 // ==/UserScript==
 
 (function() {
